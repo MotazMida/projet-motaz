@@ -1,0 +1,33 @@
+.main-div mat-card{
+    padding: 0px;
+
+}
+.login-form{
+    padding: 20px;
+    width: 400px;
+    padding: 40px;
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    color: #fff;
+    
+}
+
+label{
+    color: #fff;
+    font-style: unset;
+}
+body{
+
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-AKUGjohqcQfvpClM1xEmxnSlTERpi8FGnQ&usqp=CAU");
+    height: 75vh;
+    background-size: cover; /* Adjust background size as needed */
+    background-repeat: no-repeat;
+    
+}
+.mat-toolbar{
+    padding: 20px;
+    width: 400px;
+    padding: 40px;
+    border-radius: 10px;
+    color: #fff;
+}
